@@ -13,3 +13,6 @@ Cargo.lock
 # Added by cargo
 
 /target
+/.idea/aoc2022.iml
+/.idea/modules.xml
+/.idea/vcs.xml
